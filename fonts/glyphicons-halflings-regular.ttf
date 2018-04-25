@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+	<head>
+
+		<!-- ==============================================
+		Title and Meta Tags
+		=============================================== -->
+		<meta charset="utf-8">
+		<title>Qthemes | Bootstrap Themes</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<!-- ==============================================
+		Favicons
+		=============================================== -->
+		<link rel="shortcut icon" href="assets/images/favicon.ico">
+		<link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="assets/images/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="assets/images/apple-touch-icon-114x114.png">
+		
+		<!-- ==============================================
+		CSS
+		=============================================== -->    
+		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+		<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+		<link rel="stylesheet" href="assets/css/styles.css">
+		
+		
+		<!-- ==============================================
+		Fonts
+		=============================================== -->
+		<link href='http://fonts.googleapis.com/css?family=Ubuntu:400,500,700' rel='stylesheet' type='text/css'>
+		
+		<!-- ==============================================
+		JS
+		=============================================== -->
+			
+		<!--[if lt IE 9]>
+			<script src="assets/js/libs/respond.min.js"></script>
+		<![endif]-->
+		
+		<script type="text/javascript" src="assets/js/libs/modernizr.min.js"></script>
+		
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-29622497-2', 'q-themes.net');
+		  ga('send', 'pageview');
+
+		</script>
+	</head>
+  
+	<body>
+	
+		<div id="preloader"></div>
+	
+		<header>
+		
+			<div class="container">
+			
+				<img class="img-responsive" src="assets/images/logo-black.png" alt="" />
+				
+				<p>High Quality Bootstrap Themes</p>
+			
+				<a href="mailto:contact@q-themes.net" class="talk">talk</a>
+			
+			</div>
+		
+		</header>
+	
+		<section id="home">
+		
+			<div class="home-text">
+			
+			<p><span class="customers" data-to="6000" data-speed="2000"></span> Customers</p>
+				<a class="transformed" href="#themes">Be one of them</a>
+			
+			</div>
+		
+		</section>
+	
+		<section class="container" id="themes">
+		
+			<div class="row">
+			
+				<div class="col-sm-6">
+				
+					<div class="theme-thumb">
+					
+						<img class="img-responsive" src="assets/images/perfectr-screenshot.png" alt="" />
+						
+						<h1><a href="https://wrapbootstrap.com/theme/perfectr-impressive-portfolio-WB0H4T00K?ref=qthemes" target="_blank">PerfectR</a></h1>
+						
+						<p>Impressive Responsive Portfolio</p>
+						
+						<div class="btn-group">
+							<a href="http://wrapbootstrap.com/preview/WB0H4T00K?ref=qthemes" class="btn btn-default" target="_blank">View Demo</a>
+							<a href="https://wrapbootstrap.com/theme/perfectr-impressive-portfolio-WB0H4T00K?ref=qthemes" class="btn btn-default" target="_blank">View Details</a>
+						</div>
+						
+						<a class="buy-now" href="https://wrapbootstrap.com/theme/perfectr-impressive-portfolio-WB0H4T00K?ref=qthemes" target="_blank">Buy now <span>$10</span></a>
+					
+					</div>
+				
+				</div>
+			
+				<div class="col-sm-6">
+				
+					<div class="theme-thumb">
+					
+						<img class="img-responsive" src="assets/images/dcubed-screenshot.png" alt="" />
+						
+						<h1><a href="https://wrapbootstrap.com/theme/d-cubed-modern-personal-portfolio-WB08LL3NM?ref=qthemes" target="_blank">D-cubed</a></h1>
+						
+						<p>Modern Personal Portfolio</p>
+						
+						<div class="btn-group">
+							<a href="http://wrapbootstrap.com/preview/WB08LL3NM?ref=qthemes" class="btn btn-default" target="_blank">View Demo</a>
+							<a href="https://wrapbootstrap.com/theme/d-cubed-modern-personal-portfolio-WB08LL3NM?ref=qthemes" class="btn btn-default" target="_blank">View Details</a>
+						</div>
+						
+						<a class="buy-now" href="https://wrapbootstrap.com/theme/d-cubed-modern-personal-portfolio-WB08LL3NM?ref=qthemes" target="_blank">Buy now <span>$10</span></a>
+					
+					</div>
+				
+				</div>
+			
+				<div class="col-sm-6">
+				
+					<div class="theme-thumb">
+					
+						<img class="img-responsive" src="assets/images/quattro-screenshot.png" alt="" />
+						
+						<h1><a href="https://wrapbootstrap.com/theme/quattro-elegant-one-page-template-WB0100H81?ref=qthemes" target="_blank">Quattro</a></h1>
+						
+						<p>Elegant One Page Template</p>
+						
+						<div class="btn-group">
+							<a href="http://wrapbootstrap.com/preview/WB0100H81?ref=qthemes" class="btn btn-default" target="_blank">View Demo</a>
+							<a href="https://wrapbootstrap.com/theme/quattro-elegant-one-page-template-WB0100H81?ref=qthemes" class="btn btn-default" target="_blank">View Details</a>
+						</div>
+						
+						<a class="buy-now" href="https://wrapbootstrap.com/theme/quattro-elegant-one-page-template-WB0100H81?ref=qthemes" target="_blank">Buy now <span>$10</span></a>
+					
+					</div>
+				
+				</div>
+			
+				<div class="col-sm-6">
+				
+					<div class="theme-thumb">
+					
+						<img class="img-responsive" src="assets/images/graphista-screenshot.png" alt="" />
+						
+						<h1><a href="https://wrapbootstrap.com/theme/graphista-one-page-creative-portfolio-WB09S4JFK?ref=qthemes" target="_blank">Graphista</a></h1>
+						
+						<p>One Page Creative Portfolio</p>
+						
+						<div class="btn-group">
+							<a href="http://wrapbootstrap.com/preview/WB09S4JFK?ref=qthemes" class="btn btn-default" target="_blank">View Demo</a>
+							<a href="https://wrapbootstrap.com/theme/graphista-one-page-creative-portfolio-WB09S4JFK?ref=qthemes" class="btn btn-default" target="_blank">View Details</a>
+						</div>
+						
+						<a class="buy-now" href="https://wrapbootstrap.com/theme/graphista-one-page-creative-portfolio-WB09S4JFK?ref=qthemes" target="_blank">Buy now <span>$10</span></a>
+					
+					</div>
+				
+				</div>
+			
+				<div class="col-sm-6">
+				
+					<div class="theme-thumb">
+					
+						<img class="img-responsive" src="assets/images/qubico-screenshot.png" alt="" />
+						
+						<h1><a href="https://wrapbootstrap.com/theme/qubico-creative-portfolio-blog-WB0KC2813?ref=qthemes" target="_blank">Qubico</a></h1>
+						
+						<p>Creative Portfolio &amp; Blog</p>
+						
+						<div class="btn-group">
+							<a href="http://wrapbootstrap.com/preview/WB0KC2813?ref=qthemes" class="btn btn-default" target="_blank">View Demo</a>
+							<a href="https://wrapbootstrap.com/theme/qubico-creative-portfolio-blog-WB0KC2813?ref=qthemes" class="btn btn-default" target="_blank">View Details</a>
+						</div>
+						
+						<a class="buy-now" href="https://wrapbootstrap.com/theme/qubico-creative-portfolio-blog-WB0KC2813?ref=qthemes" target="_blank">Buy now <span>$10</span></a>
+					
+					</div>
+				
+				</div>
+			
+				<div class="col-sm-6">
+				
+					<div class="theme-thumb">
+					
+						<img class="img-responsive" src="assets/images/meflat-screenshot.png" alt="" />
+						
+						<h1><a href="https://wrapbootstrap.com/theme/me-flat-flat-personal-portfolio-WB094T9L8?ref=qthemes" target="_blank">Me Flat</a></h1>
+						
+						<p>Flat Personal Portfolio</p>
+						
+						<div class="btn-group">
+							<a href="http://wrapbootstrap.com/preview/WB094T9L8?ref=qthemes" class="btn btn-default" target="_blank">View Demo</a>
+							<a href="https://wrapbootstrap.com/theme/me-flat-flat-personal-portfolio-WB094T9L8?ref=qthemes" class="btn btn-default" target="_blank">View Details</a>
+						</div>
+						
+						<a class="buy-now" href="https://wrapbootstrap.com/theme/me-flat-flat-personal-portfolio-WB094T9L8?ref=qthemes" target="_blank">Buy now <span>$10</span></a>
+					
+					</div>
+				
+				</div>
+			
+				<div class="col-sm-6">
+				
+					<div class="theme-thumb">
+					
+						<img class="img-responsive" src="assets/images/shapes-screenshot.png" alt="" />
+						
+						<h1><a href="https://wrapbootstrap.com/theme/shapes-clean-portfolio-template-WB0448XT6?ref=qthemes" target="_blank">Shapes</a></h1>
+						
+						<p>Clean Portfolio Template</p>
+						
+						<div class="btn-group">
+							<a href="http://wrapbootstrap.com/preview/WB0448XT6?ref=qthemes" class="btn btn-default" target="_blank">View Demo</a>
+							<a href="https://wrapbootstrap.com/theme/shapes-clean-portfolio-template-WB0448XT6?ref=qthemes" class="btn btn-default" target="_blank">View Details</a>
+						</div>
+						
+						<a class="buy-now" href="https://wrapbootstrap.com/theme/shapes-clean-portfolio-template-WB0448XT6?ref=qthemes" target="_blank">Buy now <span>$10</span></a>
+					
+					</div>
+				
+				</div>
+			
+				<div class="col-sm-6">
+				
+					<div class="theme-thumb">
+					
+						<img class="img-responsive" src="assets/images/designr-screenshot.png" alt="" />
+						
+						<h1><a href="https://wrapbootstrap.com/theme/designr-one-page-personal-portfolio-WB0L1JT31?ref=qthemes" target="_blank">DesignR</a></h1>
+						
+						<p>One Page Personal Portfolio</p>
+						
+						<div class="btn-group">
+							<a href="http://wrapbootstrap.com/preview/WB0L1JT31?ref=qthemes" class="btn btn-default" target="_blank">View Demo</a>
+							<a href="https://wrapbootstrap.com/theme/designr-one-page-personal-portfolio-WB0L1JT31?ref=qthemes" class="btn btn-default" target="_blank">View Details</a>
+						</div>
+						
+						<a class="buy-now" href="https://wrapbootstrap.com/theme/designr-one-page-personal-portfolio-WB0L1JT31?ref=qthemes" target="_blank">Buy now <span>$10</span></a>
+					
+					</div>
+				
+				</div>
+			
+			</div>
+		
+		</section>
+	
+		<!-- ==============================================
+		FOOTER
+		=============================================== -->	
+		<footer id="main-footer">
+		
+			<div class="container text-center">
+			
+		
+				<h2>Want to get notified about news and updates?</h2>
+				<p>Subscribe to our mailing list</p>
+				
+				<!--=== Newsletter ===-->
+
+				<form id="newsletter" action="subscribe.php" method="post" novalidate>
+					
+					<div class="form-group">
+						<div class="controls">
+							<input id="subscriber-mail" name="email" class="form-control" type="email" placeholder="Enter your email address">
+						</div>
+					</div><!-- End email input -->
+					
+					<button name="submit" type="submit"><i class="fa fa-arrow-right"></i></button>
+					<input type="hidden" name="submitted" id="submitted" value="true" />
+					
+					<div id="validation">
+					
+						<p id="text-if-empty">An email address is required</p>
+						<p id="text-if-invalid">Invalid email address</p>
+						<p id="text-if-sending">Please wait...</p>
+						<p id="text-if-ok">You have been successfully subscribed!</p>
+					
+					</div>
+					
+				</form><!-- End contact-form -->
+			
+				<a href="mailto:contact@q-themes.net"><i class="fa fa-envelope-o"></i></a>
+				<a href="https://twitter.com/qthemes" target="_blank"><i class="fa fa-twitter"></i></a>
+				<a href="https://wrapbootstrap.com/user/qthemes?ref=qthemes" target="_blank">{w}</a>
+				
+			</div>
+			
+		</footer>
+		
+		
+		<!-- ==============================================
+		SCRIPTS
+		=============================================== -->	
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script>window.jQuery || document.write('<script src="assets/js/libs/jquery-1.9.1.min.js">\x3C/script>')</script>
+		
+		<script src="assets/js/jquery.countTo.js"></script>
+		<script src="assets/js/jquery.easing.1.3.min.js"></script>
+		<script src="assets/js/scripts.js"></script>
+		
+	</body>
+	
+</html>
